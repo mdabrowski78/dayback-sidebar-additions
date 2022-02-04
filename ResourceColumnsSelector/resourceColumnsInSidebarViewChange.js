@@ -2,7 +2,7 @@
 
 // Purpose:
 // Updates the resource selector in the sidebar when the view changes
-// Action Type: On View Changed
+// Action Type: After View Changed
 // Prevent Default Action: No
 
 // More info on custom App Actions here:
